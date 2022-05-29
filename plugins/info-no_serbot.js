@@ -9,9 +9,9 @@ let text = `
 conn.reply(m.chat, text, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝙲𝙸𝙾𝙽 - 𝚂𝙴𝚁𝙱𝙾𝚃',
-body: 'ʙʏ ᴛʜᴇ ᴍʏsᴛᴄ ﹣ ʙᴏᴛ',         
+body: 'ʙʏ The Pain ﹣ Bot',         
 previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
-sourceUrl: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`}}})   
+sourceUrl: `https://github.com/Daniel9822/TheMistic`}}})   
 }
 handler.command = /^(jadibot|serbot|bots|subbots|getcode)/i
 export default handler

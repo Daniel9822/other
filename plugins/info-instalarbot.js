@@ -19,7 +19,7 @@ let text = `
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD
+> git clone https://github.com/Daniel9822/TheMistic
 > cd TheMystic-Bot-MD
 > npm install
 > yarn install 
