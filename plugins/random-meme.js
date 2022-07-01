@@ -7,7 +7,7 @@ conn.sendButton(m.chat, `_${command}_`.trim(), author, url, [['🔄 𝚂𝙸𝙶
 }
 handler.help = ['meme']
 handler.tags = ['random']
-handler.customPrefix = /bott|meme/
+handler.customPrefix = /bot|Bot|meme/
 handler.command = new RegExp
 export default handler
 
