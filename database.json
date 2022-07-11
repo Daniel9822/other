@@ -1,11 +1,11 @@
 {
   "users": {
-    "13656515638@s.whatsapp.net": {
-      "exp": 24,
+    "13656562230@s.whatsapp.net": {
+      "exp": 59,
       "limit": 10,
       "lastclaim": 0,
       "registered": false,
-      "name": "THE PAIN BOT 😈",
+      "name": "Pain bot 😈",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -62,12 +62,12 @@
       "petFood": 0,
       "catexp": 0
     },
-    "51954928597@s.whatsapp.net": {
-      "exp": 4,
+    "14255848009@s.whatsapp.net": {
+      "exp": 20,
       "limit": 10,
       "lastclaim": 0,
       "registered": false,
-      "name": "Percynho ♏ Escorpio",
+      "name": "Pain 😈",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -124,7 +124,7 @@
     }
   },
   "chats": {
-    "13656515638@s.whatsapp.net": {
+    "13656562230@s.whatsapp.net": {
       "isBanned": false,
       "welcome": true,
       "detect": true,
@@ -142,7 +142,7 @@
       "antiToxic": false,
       "expired": 0
     },
-    "120363040971635976@g.us": {
+    "14255848009@s.whatsapp.net": {
       "isBanned": false,
       "welcome": true,
       "detect": true,
@@ -161,11 +161,18 @@
       "expired": 0
     }
   },
-  "stats": {},
+  "stats": {
+    "_autoreaccion.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1657516318311,
+      "lastSuccess": 1657516318311
+    }
+  },
   "msgs": {},
   "sticker": {},
   "settings": {
-    "13656515638@s.whatsapp.net": {
+    "13656562230@s.whatsapp.net": {
       "self": false,
       "autoread": false,
       "restrict": false
